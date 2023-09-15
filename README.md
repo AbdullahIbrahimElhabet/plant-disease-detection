@@ -1,13 +1,7 @@
-# plant-disease-detection
-Plant Disease Detection Using Deep Learning Graduation Project
-
-## Setup for Python:
-
-1. Install Python ([Setup instructions](https://wiki.python.org/moin/BeginnersGuide))
-
-2. Install Python packages
-
-3. Install Tensorflow Serving ([Setup instructions](https://www.tensorflow.org/tfx/serving/setup))
+## Import libraries used
+import tensorflow as tf
+from tensorflow.keras import models,layers
+import matplotlib.pyplot as plt
 
 ## Training the Model
 
